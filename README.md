@@ -1,1 +1,1 @@
-# Chat-Bot This is the chat bot project for university that can be used and deployed on university webiste.
+# Chat-Bot This is the chatbot project for universities that can be used and deployed on the university website, which will answer related queries. One can make changes in the intents.json file to add more tags and answers.
